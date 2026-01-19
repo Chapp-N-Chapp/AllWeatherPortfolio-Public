@@ -1,0 +1,22 @@
+# Secrets
+.env
+*.env
+secrets.json
+config.yaml
+
+# Python
+__pycache__/
+*.pyc
+venv/
+antenv/
+.env/
+
+# Azure
+local.settings.json
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
